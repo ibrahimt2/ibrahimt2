@@ -2,7 +2,7 @@
 - 🔭 I love working with ReactJS, Python and Java
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me: ibrahim.miraj@mail.mcgill.ca
-- Learn more at: ibrahimtmiraj.com
+- Learn more at: (ibrahimtmiraj.com)[https://www.ibrahimtmiraj.com/]
 
 <!--
 **ibrahimt2/ibrahimt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
