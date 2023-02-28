@@ -1,4 +1,5 @@
-- Hello there 👋. I'm @ibrahimt2
+- Incoming SDE @Vention
+-  Hello there 👋. I'm @ibrahimt2
 - 🔭 I love working with ReactJS, Python and Java
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me: ibrahim.miraj@mail.mcgill.ca
