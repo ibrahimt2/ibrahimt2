@@ -1,3 +1,3 @@
-- Senior Software Engineer at Stay22
+- Senior Software Engineer
 - 📫 How to reach me: ibrahim.miraj@mail.mcgill.ca
 - Learn more at: [ibrahimtmiraj.com](https://www.ibrahimtmiraj.com)
