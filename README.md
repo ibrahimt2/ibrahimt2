@@ -1,4 +1,3 @@
-- SDEIII @Vention
--  Hello there 👋. I'm @ibrahimt2
+- Senior Software Engineer at Stay22
 - 📫 How to reach me: ibrahim.miraj@mail.mcgill.ca
 - Learn more at: [ibrahimtmiraj.com](https://www.ibrahimtmiraj.com)
